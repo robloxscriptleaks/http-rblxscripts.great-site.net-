@@ -2,7 +2,7 @@
 game.StarterGui:SetCore("SendNotification", { 
     Title = "RBLXScripts";
     Text  = "Thank you for using RBLXScripts! The script has injected successfully!";
-    Icon = "http://www.roblox.com/asset/?id=9611015817";
+    Icon = "rbxassetid:/9611015817";
     Duration = "7";
     Button1 = "Thanks";
     Button2 = "Thanks";
